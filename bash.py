@@ -1,3 +1,6 @@
+# author : @Syhrularv_
+# -*- coding: utf-8 -*-
+
 import os
 import sys
 import fileinput
@@ -18,14 +21,14 @@ eror = R + '[' + W + '!' + R + ']'
 banner = """
 {}         _nnnn_{}        _________________
 {}        dGGGGMMb{}      |                 |
-{}       @p~qp~~qMb{}   ._| {}Bash Oubfuscator {}|
+{}       @p~qp~~qMb{}   ._| {}Bash Oubfuscate {}|
 {}       M{}({}@{})({}@{}) {}M|{}  /  |_________________|
 {}       @,{}----.{}JM|{}_/
 {}      JS^{}\__/{}  qKL
      dZP        qKRb
     dZP          qKKb
    fZP            SMMb
-   HZM            MMMM    {}Channel Telegram {}: {}t.me/SSCMobile
+   HZM            MMMM    {}Telegram channel {}: {}t.me/SSCMobile
 {}   FqM            MMMM    {}Telegram       {}: {}@Masbandicoot
 {} __|'\ .        |\{}dS qML
 {} |    `.       | `' \{}Zq
