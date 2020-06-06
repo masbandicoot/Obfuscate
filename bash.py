@@ -16,8 +16,22 @@ sukses = G + '[' + W + '√' + G + '] '
 eror = R + '[' + W + '!' + R + ']'
 
 banner = """
-Telegram Channel {}: {}t.me/SSCMobile
-Telegram       {}: {}@Masbandicoot
+{}         _nnnn_{}        _________________
+{}        dGGGGMMb{}      |                 |
+{}       @p~qp~~qMb{}   ._| {}Bash Oubfuscator {}|
+{}       M{}({}@{})({}@{}) {}M|{}  /  |_________________|
+{}       @,{}----.{}JM|{}_/
+{}      JS^{}\__/{}  qKL
+     dZP        qKRb
+    dZP          qKKb
+   fZP            SMMb
+   HZM            MMMM    {}Channel Telegram {}: {}t.me/SSCMobile
+{}   FqM            MMMM    {}Telegram       {}: {}@Masbandicoot
+{} __|'\ .        |\{}dS qML
+{} |    `.       | `' \{}Zq
+{}_)      \.{}___.{},|     .'
+\____   ){}MMMMMP{}|   .'
+     `-'       `--'
 """.format(D,W,D,W,D,W,Y,W,D,W,D,W,D,W,D,W,D,Y,D,W,D,Y,D,G,W,G,D,G,W,G,Y,D,Y,D,Y,D,Y,D,Y)
 
 banner2 = """
