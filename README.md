@@ -6,6 +6,6 @@ npm install -g bash-obfuscate
 
 git clone https://github.com/masbandicoot/Obfuscate
 
-cd obfuscate
+cd Obfuscate
 
 python2 bash.py
