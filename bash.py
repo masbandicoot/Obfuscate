@@ -1,6 +1,3 @@
-# author : @Syhrularv_
-# -*- coding: utf-8 -*-
-
 import os
 import sys
 import fileinput
@@ -19,22 +16,8 @@ sukses = G + '[' + W + '√' + G + '] '
 eror = R + '[' + W + '!' + R + ']'
 
 banner = """
-{}         _nnnn_{}        _________________
-{}        dGGGGMMb{}      |                 |
-{}       @p~qp~~qMb{}   ._| {}Bash Oubfuscate {}|
-{}       M{}({}@{})({}@{}) {}M|{}  /  |_________________|
-{}       @,{}----.{}JM|{}_/
-{}      JS^{}\__/{}  qKL
-     dZP        qKRb
-    dZP          qKKb
-   fZP            SMMb
-   HZM            MMMM    {}Coded by {}: {}Syhrül
-{}   FqM            MMMM    {}FB       {}: {}Telegram : @Masbandicoot
-{} __|'\ .        |\{}dS qML
-{} |    `.       | `' \{}Zq
-{}_)      \.{}___.{},|     .'
-\____   ){}MMMMMP{}|   .'
-     `-'       `--'
+Telegram Channel {}: {}t.me/SSCMobile
+Telegram       {}: {}@Masbandicoot
 """.format(D,W,D,W,D,W,Y,W,D,W,D,W,D,W,D,W,D,Y,D,W,D,Y,D,G,W,G,D,G,W,G,Y,D,Y,D,Y,D,Y,D,Y)
 
 banner2 = """
